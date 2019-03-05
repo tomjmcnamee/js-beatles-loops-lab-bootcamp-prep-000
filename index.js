@@ -13,6 +13,7 @@ function johnLennonFacts(factsA) {
   var arr1 = []
   while ( count < factsA.length ) {
     arr1.push(`${factsA[count]}!!!`)
+    count++
 }
    return arr1
 }
