@@ -17,3 +17,12 @@ function johnLennonFacts(factsA) {
 }
    return arr1
 }
+
+
+function iLoveTheBeatles(n){
+  var arr1 = []
+  do {} while (n < 15)
+}
+
+
+
