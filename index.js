@@ -8,3 +8,7 @@ function theBeatlesPlay(mus, inst) {
 }
 
 
+function johnLennonFacts(factsA) {
+  var count = 0
+  while ( count < factsA.length) do {
+}
