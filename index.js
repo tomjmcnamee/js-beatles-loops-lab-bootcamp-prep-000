@@ -10,5 +10,9 @@ function theBeatlesPlay(mus, inst) {
 
 function johnLennonFacts(factsA) {
   var count = 0
-  while ( count < factsA.length) do {
+  var arr1 = []
+  while ( count < factsA.length ) {
+    arr1.push(`${factsA[count]}!!!`)
+}
+   return arr1
 }
